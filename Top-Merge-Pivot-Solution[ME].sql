@@ -200,4 +200,3 @@ pivot
 	count(Emps_Both) for Emps_Both in ([1], [2], [3], [4], [5], [6], [7], [8], [9])--, LN_Both, Emps_InCommon, FN_InCom, LN_InCom, Emps_eDateNotNorthwind, FN_eDateNotNorthwind, LN_eDateNotNorthwind)
 )as pvtable;
 
-
